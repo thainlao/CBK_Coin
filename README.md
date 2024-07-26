@@ -1,21 +1,9 @@
 ---
-                                                                                                              
-                                                                                                              
-   ____              ___                             ___    __                      ___                       
-  6MMMMb/             MM                             `MM    d'  @        68b         `MM                       
- 8P    YM             MM                              MM   d'           Y89          MM        /              
-6M      Y ____    ___ MM____     ____  ___  __        MM  d'   ___  __  ___   __     MM  __   /M       ____   
-MM        `MM(    )M' MMMMMMb   6MMMMb `MM 6MM        MM d'    `MM 6MMb `MM  6MMbMMM MM 6MMb /MMMMM   6MMMMb\ 
-MM         `Mb    d'  MM'  `Mb 6M'  `Mb MM69 "        MMd'      MMM9 `Mb MM 6M'`Mb   MMM9 `Mb MM     MM'    ` 
-MM          YM.  ,P   MM    MM MM    MM MM'           MMYM.     MM'   MM MM MM  MM   MM'   MM MM     YM.      
-MM           MM  M    MM    MM MMMMMMMM MM            MM YM.    MM    MM MM YM.,M9   MM    MM MM      YMMMMb  
-YM      6    `Mbd'    MM    MM MM       MM            MM  YM.   MM    MM MM  YMM9    MM    MM MM          `Mb 
- 8b    d9     YMP     MM.  ,M9 YM    d9 MM            MM   YM.  MM    MM MM (M       MM    MM YM.  , L    ,MM 
-  YMMMM9       M     _MYMMMM9   YMMMM9 _MM_          _MM_   YM._MM_  _MM_MM_ YMMMMb._MM_  _MM_ YMMM9 MYMMMM9  
-              d'                                                            6M    Yb                          
-          (8),P                                                             YM.   d9                          
-           YMM                                                               YMMMM9                           
-
+doooooo 888   88 d88PPPo   ,d8PPPP   ,dbPPPp   888  ,dP 888  ,d8    8888 888PPP8b  888  888 888888888 88888888  
+d88     888ooo88 888ooo8   d88ooo    d88ooP'   888o8P'  888_dPY8    8888 d88    `  88888888    '88d   88ooooPp  
+d88           88 888   8 ,88'      ,88' P'     888 Y8L  8888' 88    8888 d8b PPY8  88P  888   '888           d8 
+d888888 PPPPPP8P 888PPPP 88bdPPP   88  do      888  `8p Y8P   Y8    8888 Y8PPPPPP  88P  888 '88p      8888888P  
+                                                                                                                 
 ---
 # Cyber Knight Coin (Web приложение внутри телеграмма)
 
