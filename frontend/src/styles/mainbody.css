@@ -1,0 +1,58 @@
+.mainpage {
+    height: 100vh;
+    max-height: 100vh;
+    background: linear-gradient(rgb(61, 25, 59), black);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
+    overflow: hidden;
+}
+
+.content-container {
+    flex: 1;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    overflow: auto;
+}
+
+.buttons {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    z-index: 2;
+}
+
+.buttons button {
+    width: 33%;
+    padding: 1rem;
+    background-color: black;
+    color: rgb(150, 134, 134);
+    border: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    transition: all 0.2s ease-in;
+    font-size: 1rem;
+}
+
+.buttons img {
+    height: 30px;
+    width: 30px;
+    object-fit: cover;
+    transition: all 0.2s ease-in;
+}
+
+.buttons img.active {
+    transform: scale(1.1);
+}
+
+.buttons .active {
+    color: rgb(255, 255, 255);
+}
