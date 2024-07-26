@@ -195,10 +195,10 @@ import (
 )
 
 const (
-    privateKey    = "YOUR_PRIVATE_KEY" // Replace with your private key
-    rpcURL        = "https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID"
-    contractABI   = `[ABI_OF_YOUR_CONTRACT]` // Replace with actual ABI
-    contractBytecode = `0x[BYTECODE_OF_YOUR_CONTRACT]` // Replace with actual Bytecode
+    privateKey    = // YOU SHOULD NOT KNOW DAT
+    rpcURL        = // ALSO ONCE SHOULDNT
+    contractABI   = // XD
+    contractBytecode = // EVEN TRY TO GUESS MY BYTECODE its started with 0x goodluck!
 )
 
 func main() {
