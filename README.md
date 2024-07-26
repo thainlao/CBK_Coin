@@ -1,11 +1,28 @@
- _____  ______   _   __
-/  __ \ | ___ \ | | / /
-| /  \/ | |_/ / | |/ / 
-| |     | ___ \ |    \ 
-| \__/\ | |_/ / | |\  \
- \____/ \____/  \_| \_/
-                       
-                       
+                                                                       
+                                                                       
+        CCCCCCCCCCCCC     BBBBBBBBBBBBBBBBB        KKKKKKKKK    KKKKKKK
+     CCC::::::::::::C     B::::::::::::::::B       K:::::::K    K:::::K
+   CC:::::::::::::::C     B::::::BBBBBB:::::B      K:::::::K    K:::::K
+  C:::::CCCCCCCC::::C     BB:::::B     B:::::B     K:::::::K   K::::::K
+ C:::::C       CCCCCC       B::::B     B:::::B     KK::::::K  K:::::KKK
+C:::::C                     B::::B     B:::::B       K:::::K K:::::K   
+C:::::C                     B::::BBBBBB:::::B        K::::::K:::::K    
+C:::::C                     B:::::::::::::BB         K:::::::::::K     
+C:::::C                     B::::BBBBBB:::::B        K:::::::::::K     
+C:::::C                     B::::B     B:::::B       K::::::K:::::K    
+C:::::C                     B::::B     B:::::B       K:::::K K:::::K   
+ C:::::C       CCCCCC       B::::B     B:::::B     KK::::::K  K:::::KKK
+  C:::::CCCCCCCC::::C     BB:::::BBBBBB::::::B     K:::::::K   K::::::K
+   CC:::::::::::::::C     B:::::::::::::::::B      K:::::::K    K:::::K
+     CCC::::::::::::C     B::::::::::::::::B       K:::::::K    K:::::K
+        CCCCCCCCCCCCC     BBBBBBBBBBBBBBBBB        KKKKKKKKK    KKKKKKK
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
+                                                                       
 # Cyber Knight Coin (Web приложение внутри телеграмма)
 
 ---
