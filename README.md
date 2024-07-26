@@ -1,14 +1,22 @@
 ---
-    ___      ___      _  _                   _       __   _                         __           
-  ,"___".   F _ ",   FJ / ;        ____     FJ___    LJ  FJ_      ____      ____    LJ   _ ___   
-  FJ---L]  J `-'(|  J |/ (|       F ___J   J  __ `.     J  _|    F ___J.   F __ J       J '__ J  
- J |   LJ  | ,--.\  |     L      | '----_  | |--| |  FJ | |-'   | |---LJ  | |--| |  FJ  | |__| | 
- | \___--. F L__J \ F L:\  L     )-____  L F L  J J J  LF |__-. F L___--. F L__J J J  L F L  J J 
- J\_____/FJ_______JJ__L \\__L   J\______/FJ__L  J__LJ__L\_____/J\______/FJ\______/FJ__LJ__L  J__L
-  J_____F |_______F|__L  \L_|    J______F |__L  J__||__|J_____F J______F  J______F |__||__L  J__|
-                                                                                                 
-___
+                                                                                                              
+                                                                                                              
+   ____              ___                             ___    __                      ___                       
+  6MMMMb/             MM                             `MM    d'  @        68b         `MM                       
+ 8P    YM             MM                              MM   d'           Y89          MM        /              
+6M      Y ____    ___ MM____     ____  ___  __        MM  d'   ___  __  ___   __     MM  __   /M       ____   
+MM        `MM(    )M' MMMMMMb   6MMMMb `MM 6MM        MM d'    `MM 6MMb `MM  6MMbMMM MM 6MMb /MMMMM   6MMMMb\ 
+MM         `Mb    d'  MM'  `Mb 6M'  `Mb MM69 "        MMd'      MMM9 `Mb MM 6M'`Mb   MMM9 `Mb MM     MM'    ` 
+MM          YM.  ,P   MM    MM MM    MM MM'           MMYM.     MM'   MM MM MM  MM   MM'   MM MM     YM.      
+MM           MM  M    MM    MM MMMMMMMM MM            MM YM.    MM    MM MM YM.,M9   MM    MM MM      YMMMMb  
+YM      6    `Mbd'    MM    MM MM       MM            MM  YM.   MM    MM MM  YMM9    MM    MM MM          `Mb 
+ 8b    d9     YMP     MM.  ,M9 YM    d9 MM            MM   YM.  MM    MM MM (M       MM    MM YM.  , L    ,MM 
+  YMMMM9       M     _MYMMMM9   YMMMM9 _MM_          _MM_   YM._MM_  _MM_MM_ YMMMMb._MM_  _MM_ YMMM9 MYMMMM9  
+              d'                                                            6M    Yb                          
+          (8),P                                                             YM.   d9                          
+           YMM                                                               YMMMM9                           
 
+---
 # Cyber Knight Coin (Web приложение внутри телеграмма)
 
 ---
